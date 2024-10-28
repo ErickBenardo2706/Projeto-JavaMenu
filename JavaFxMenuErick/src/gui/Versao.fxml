@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea editable="false" prefHeight="401.0" prefWidth="600.0" text="Product Version&#10;JavaFX Scene Builder 11.0.0&#10;&#10;Build Information&#10;Version 11.0.0&#10;Date: 2019-03-19&#10;Java Version: 11.0.1+13-LTS, Oracle Corporation&#10;&#10;Logging&#10;The default configuration stores logging output in &#10;a file named scenebuilder-11.0.0.log (possibly followed&#10; by a trailing '.' and a digit).&#10;The default file path is /tmp/scenebuilder-11.0.0.log&#10;&#10;Java&#10;11.0.1+13-LTS, Oracle Corporation&#10;&#10;Operating System&#10;Linux, amd64, 5.4.0-81-generic&#10;&#10;Copyright (c) 2015-2018, Gluon." />
+   </children>
+</VBox>
